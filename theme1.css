@@ -519,7 +519,7 @@
 }
 
 :root .membersWrap-3NUR2t::before {
-  content: "Member list";
+  content: "Membres";
   position: absolute;
   top: -60px;
   z-index: 1;
