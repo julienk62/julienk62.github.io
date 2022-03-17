@@ -16,7 +16,7 @@
   overflow: visible;
 }
 :root .threadSidebar-1o3BTy::-webkit-scrollbar {
-  margin-right: 50px;
+  margin-right: 500px;
 }
 :root .threadSidebar-1o3BTy::before {
   content: "Thread";
@@ -240,7 +240,7 @@
 }
 
 .activityPanel-9icbyU ~ .powercord-spotify {
-  bottom: 50px;
+  bottom: 500px;
   transition: 0.35s;
 }
 
